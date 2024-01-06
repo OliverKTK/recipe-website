@@ -1,0 +1,35 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 46px;
+    font-family: "Times New Roman", serif;
+}
+
+h2 {
+    font-family: "Times New Roman", serif;
+    font-size: 32px;
+    color: rgb(255, 176, 0);
+}
+
+a {
+    color:rgb(255, 174, 0);
+    font-size: 24px;
+    font-family: "Times New Roman", serif;
+}
+ul {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+ol {
+    color: black;
+    font-size: 18px;
+    background-color: white;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 18px;
+    text-align: left;
+}
